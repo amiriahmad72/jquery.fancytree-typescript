@@ -1,0 +1,46 @@
+{
+    "name": "@types/jquery.fancytree",
+    "version": "2.28.2",
+    "description": "TypeScript definitions for jquery.fancytree 2.28.2-0",
+    "homepage": "https://github.com/amiriahmad72/jquery.fancytree-typescript",
+    "license": "MIT",
+    "contributors": [
+        {
+            "name": "Peter Palotas",
+            "url": "https://github.com/alphaleonis",
+            "githubUsername": "alphaleonis"
+        },
+        {
+            "name": "Mahdi Abedi",
+            "url": "https://github.com/abedi-ir",
+            "githubUsername": "abedi-ir"
+        },
+        {
+            "name": "Nikolai Ommundsen",
+            "url": "https://github.com/niikoo",
+            "githubUsername": "niikoo"
+        },
+        {
+            "name": "Nitecube",
+            "url": "https://github.com/Nitecube",
+            "githubUsername": "Nitecube"
+        },
+        {
+            "name": "Hossein Hosni",
+            "url": "https://github.com/hosni",
+            "githubUsername": "hosni"
+        }
+    ],
+    "main": "",
+    "types": "index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/amiriahmad72/jquery.fancytree-typescript.git"
+    },
+    "scripts": {},
+    "dependencies": {
+        "@types/jquery": "*",
+        "@types/jqueryui": "*"
+    },
+    "typeScriptVersion": "3.6"
+}
