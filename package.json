@@ -40,7 +40,7 @@
     "scripts": {},
     "dependencies": {
         "@types/jquery": "*",
-        "@types/jqueryui": "*"
+        "@types/jquery-ui": "amiriahmad72/jquery-ui-typescript"
     },
     "typeScriptVersion": "3.6"
 }
