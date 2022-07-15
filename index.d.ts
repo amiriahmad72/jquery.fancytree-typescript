@@ -10,7 +10,7 @@
 
 
 ///<reference types="jquery" />
-///<reference types="jqueryui" />
+///<reference types="jquery-ui" />
 
 declare namespace JQueryUI {
     interface UI {
